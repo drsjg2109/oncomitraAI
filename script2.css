@@ -1,0 +1,523 @@
+img { 
+
+}
+
+#splash { 
+
+}
+
+#splash .particles { 
+
+}
+
+#splash .logo { 
+
+}
+
+#splash h2 { 
+
+}
+
+#splash .loader { 
+
+}
+
+#language { 
+
+}
+
+#language .container { 
+
+}
+
+#language .container h1 { 
+
+}
+
+#language .container p { 
+
+}
+
+#language .container .grid { 
+
+}
+
+#language .container .grid .lang { 
+
+}
+
+#language .container #continue { 
+
+}
+
+.popup { 
+
+}
+
+.popup .popup-card { 
+
+}
+
+.popup .popup-card h2 { 
+
+}
+
+.popup .popup-card #confirmText { 
+
+}
+
+.popup .popup-card .popup-buttons { 
+
+}
+
+.popup .popup-card .popup-buttons .grayBtn { 
+
+}
+
+.popup .popup-card .popup-buttons #yesBtn { 
+
+}
+
+.container { 
+
+}
+
+.container .logo { 
+
+}
+
+.container h1 { 
+
+}
+
+.container p { 
+
+}
+
+.container .grid { 
+
+}
+
+.container .grid .card { 
+
+}
+
+.container .grid .card .icon { 
+
+}
+
+.container .grid .card h2 { 
+
+}
+
+.container .grid .card p { 
+
+}
+
+.container #continue { 
+
+}
+
+.card { 
+
+}
+
+.card h2 { 
+
+}
+
+.card p { 
+
+}
+
+#continue { 
+
+}
+
+.caseStatus { 
+
+}
+
+.caseStatus h2 { 
+
+}
+
+.caseStatus .step { 
+
+}
+
+.caseStatus .step .circle { 
+
+}
+
+.caseStatus .step .content { 
+
+}
+
+.caseStatus .step .content h3 { 
+
+}
+
+.caseStatus .step .content p { 
+
+}
+
+.currentStatus { 
+
+}
+
+.currentStatus h2 { 
+
+}
+
+.currentStatus .statusBox { 
+
+}
+
+.currentStatus .statusBox h1 { 
+
+}
+
+.currentStatus .statusBox p { 
+
+}
+
+.onco-card { 
+
+}
+
+.onco-card .title { 
+
+}
+
+.onco-card .title h1 { 
+
+}
+
+.onco-card .profile { 
+
+}
+
+.onco-card .profile #patientPhoto { 
+
+}
+
+.onco-card .profile #patientName { 
+
+}
+
+.onco-card .profile #oncoId { 
+
+}
+
+.onco-card .profile #oncoId strong { 
+
+}
+
+.onco-card .profile #abhaId { 
+
+}
+
+.onco-card .profile #abhaId strong { 
+
+}
+
+.onco-card .profile #qrCode { 
+
+}
+
+.onco-card .section { 
+
+}
+
+.onco-card .section h3 { 
+
+}
+
+.onco-card .section p { 
+
+}
+
+.onco-card .section p b { 
+
+}
+
+.onco-card .section p #age { 
+
+}
+
+.oncoCard { 
+
+}
+
+.oncoCard .header { 
+
+}
+
+.oncoCard .header .logo { 
+
+}
+
+.oncoCard .header h1 { 
+
+}
+
+.oncoCard .header p { 
+
+}
+
+.oncoCard .profile { 
+
+}
+
+.oncoCard .profile .photo { 
+
+}
+
+.oncoCard .profile div { 
+
+}
+
+.oncoCard .profile div #patientName { 
+
+}
+
+.oncoCard .profile div p { 
+
+}
+
+.oncoCard .profile div p strong { 
+
+}
+
+.oncoCard .profile div p #oncoId { 
+
+}
+
+.oncoCard .profile .qr { 
+
+}
+
+.oncoCard hr { 
+
+}
+
+.oncoCard .section { 
+
+}
+
+.oncoCard .section h2 { 
+
+}
+
+.oncoCard .section table { 
+
+}
+
+.oncoCard .section table tbody { 
+
+}
+
+.oncoCard .section table tbody tr { 
+
+}
+
+.oncoCard .section table tbody tr td { 
+
+}
+
+.oncoCard .section table tbody tr #age { 
+
+}
+
+.oncoCard .footer { 
+
+}
+
+header { 
+
+}
+
+header .logo { 
+
+}
+
+header .patient { 
+
+}
+
+header .patient b { 
+
+}
+
+header .patient br { 
+
+}
+
+center { 
+
+}
+
+center .next { 
+
+}
+
+.sidebar { 
+
+}
+
+.sidebar .logo { 
+
+}
+
+.sidebar h2 { 
+
+}
+
+.sidebar ul { 
+
+}
+
+.sidebar ul .active { 
+
+}
+
+.sidebar ul li { 
+
+}
+
+.main { 
+
+}
+
+.main .topbar { 
+
+}
+
+.main .topbar h1 { 
+
+}
+
+.main .topbar div { 
+
+}
+
+.main .topbar div b { 
+
+}
+
+.main .cards { 
+
+}
+
+.main .cards .card { 
+
+}
+
+.main .cards .card h2 { 
+
+}
+
+.main .cards .card p { 
+
+}
+
+.main .section { 
+
+}
+
+.main .section h2 { 
+
+}
+
+.main .section table { 
+
+}
+
+.main .section table tbody { 
+
+}
+
+.main .section table tbody tr { 
+
+}
+
+.main .section table tbody tr th { 
+
+}
+
+.main .footer { 
+
+}
+
+.section { 
+
+}
+
+.section h2 { 
+
+}
+
+.section .verificationBox { 
+
+}
+
+.section .verificationBox label { 
+
+}
+
+.section .verificationBox input { 
+
+}
+
+.section .verificationBox button { 
+
+}
+
+.topbar { 
+
+}
+
+.topbar div { 
+
+}
+
+.topbar div h1 { 
+
+}
+
+.topbar div p { 
+
+}
+
+.cards { 
+
+}
+
+.cards .card { 
+
+}
+
+.cards .card h2 { 
+
+}
+
+.cards .card p { 
+
+}
+
+.parent { 
+
+}
+
+.parent label { 
+
+}
+
+.parent div { 
+
+}
+
+.parent div .fff { 
+
+}
